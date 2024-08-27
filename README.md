@@ -41,8 +41,7 @@ The TSC is responsible for all technical oversight, with voting members initiall
 
 All contributors must comply with the LF Projects policies, including the Code of Conduct and trademark guidelines. The project will operate transparently and ethically, ensuring all outputs are visible to the community.
 
-For more details, you can view the full Technical Charter.
-
+For more details, you can view the full [Open Model Initiative Technical Charter](https://github.com/Open-Model-Initiative/OMI-Site/blob/main/Open%20Model%20Initiative%20Technical%20Charter.md)
 ## Get Involved
 
 We welcome participation from anyone interested in contributing to OMI. Whether you’re a developer, designer, or just passionate about open-source AI, there are many ways to get involved:
